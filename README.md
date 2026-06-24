@@ -4,6 +4,8 @@ Download video/audio dari berbagai platform sosial media seperti TikTok, YouTube
 
 🌐 **Live demo:** [download.elixia.my.id](https://download.elixia.my.id)
 
+![Architecture](assets/architecture.svg)
+
 ## Fitur
 
 -   Scan link video untuk melihat info (judul, durasi, thumbnail)
